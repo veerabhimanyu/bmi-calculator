@@ -66,10 +66,12 @@ input {
 
 @media (max-width: 480px) {
   .text {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 25px;
   }
   div {
     max-width: 100%;
+    margin: auto;
+    width: 100%;
   }
 }
